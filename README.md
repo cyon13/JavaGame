@@ -1,6 +1,7 @@
 # 철수와 영희
 
-![image-20210224004234708](C:\Users\Bonyul\Dropbox\typoraImg\README\108868706-d3967b00-7639-11eb-8511-ea533cf5a15e.png)
+![image-20210224004234708](https://user-images.githubusercontent.com/35316595/108869027-2a03b980-763a-11eb-88a3-f4cad98cd3fb.png)
+
 
 
 
@@ -15,7 +16,7 @@
 
 ## 🎞 실행 화면
 
-![게임](C:\Users\Bonyul\Dropbox\typoraImg\README\108868450-929e6680-7639-11eb-8f96-a13a6ef388a7.gif)
+![게임](https://user-images.githubusercontent.com/35316595/108869115-38ea6c00-763a-11eb-986d-c97a510ea9ec.gif)
 
 
 ## 💼Download
